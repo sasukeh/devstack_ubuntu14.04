@@ -1,0 +1,5 @@
+[ALL]
+13.78.122.140 ansible_ssh_pass='AI34567890-=' ansible_user=stack
+40.74.84.107 ansible_ssh_pass='AI34567890-=' ansible_user=stack
+168.63.205.127 ansible_ssh_pass='AI34567890-=' ansible_user=stack
+
